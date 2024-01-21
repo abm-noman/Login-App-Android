@@ -52,16 +52,18 @@
             android:padding="28dp">
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Welcome Human"
+                android:textAlignment="center"
                 android:textColor="@color/primary"
                 android:textSize="32sp"
                 android:textStyle="bold"/>
 
             <TextView
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:textAlignment="center"
                 android:text="Please Log in with your information"
                 android:alpha="0.7"/>
 
